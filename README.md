@@ -35,6 +35,9 @@ As a enthusiastic junior .NET developer, I specialize in back-end development, u
 
 - ⚡ Fun fact:  I enjoy delving deeply into concepts, but often find myself feeling overwhelmed by the volume of information to process.  
 
+- 📫 How to reach me **kobabogdan78@gmail.com**
+
+- 📄 Know about my experiences 
 
 </td></tr></table>  
 
