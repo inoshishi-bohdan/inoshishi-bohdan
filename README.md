@@ -1,4 +1,3 @@
-![My Banner](https://img.freepik.com/premium-photo/twinkling-stars-falling-particles_357568-401.jpg?w=996)
   
 
 ## Hi 👋, I'm Bohdan Koba  
@@ -15,7 +14,7 @@
 
 
 ### Glad to see you here!  
-As a passionate junior .NET developer, I specialize in back-end development, utilizing my skills in ASP.NET, Entity Framework, and MS SQL Server to craft resilient and efficient applications. My expertise extends to full-stack development, where I've garnered valuable experience in the Blazor Framework, working with both Blazor Server and Blazor Web Assembly. Continuously learning and embracing emerging technologies, I am dedicated to contributing to impactful projects and refining my understanding of software design and cloud technologies.
+As a enthusiastic junior .NET developer, I specialize in back-end development, utilizing my skills in ASP.NET, Entity Framework, and MS SQL Server to craft resilient and efficient applications. My expertise extends to full-stack development, where I've garnered valuable experience in the Blazor Framework, working with both Blazor Server and Blazor Web Assembly. Continuously learning and embracing emerging technologies, I am dedicated to contributing to impactful projects and refining my understanding of software design and cloud technologies.
   
   
 
@@ -46,11 +45,11 @@ As a passionate junior .NET developer, I specialize in back-end development, uti
 <div align="center">  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" width="37" height="37" /></a>  
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img style="margin: 10px" src="https://tse2.mm.bing.net/th/id/OIP.ufda9GMM1qUkM0-88mGV-QAAAA?w=270&h=283&rs=1&pid=ImgDetMain" alt="ASP.NET Core" width="37" height="37" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="37" height="37" /></a>  
+<a href="https://www.w3schools.com/html/default.asp" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="37" height="37" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="37" height="37" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="37" height="37" /></a>  
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" width="37" height="37" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="37" height="37" /></a>  
+<a href="https://www.w3schools.com/c/index.php" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="37" height="37" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="37" height="37" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="37" height="37" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" alt="Flask" width="37" height="37" /></a>  
