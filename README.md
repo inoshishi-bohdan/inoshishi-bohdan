@@ -1,4 +1,4 @@
-<img src="undefined" align="left" height="" width="100%" />  
+![My Banner](https://img.freepik.com/premium-photo/twinkling-stars-falling-particles_357568-401.jpg?w=996)
   
 
 ## Hi 👋, I'm Bohdan Koba  
@@ -44,21 +44,20 @@ As a passionate junior .NET developer, I specialize in back-end development, uti
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" width="45" height="45" /></a>  
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img style="margin: 10px" src="https://cdn-images-1.medium.com/max/1200/1*oPEDLkxFxRbrzSBvDSt72g.png#gh-light-mode-only" alt="ASP.NET Core" width="45" height="45" /></a>  
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img style="margin: 10px" src="https://logodix.com/logo/1796956.png#gh-dark-mode-only" alt="ASP.NET Core" width="45" height="45" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="45" height="45" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="45" height="45" /></a>  
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" width="45" height="45" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="45" height="45" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="45" height="45" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="45" height="45" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" alt="Flask" width="45" height="45" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="45" height="45" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" width="45" height="45" /></a>  
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/B/blazor-logo-B6B0844B72-seeklogo.com.png" alt="Blazor" width="45" height="45" /></a>  
-<a href="https://www.microsoft.com/en-GB/sql-server" target="_blank"><img style="margin: 10px" src="https://logodix.com/logo/696508.png" alt="SQL Server" width="45" height="45" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" width="37" height="37" /></a>  
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img style="margin: 10px" src="https://tse2.mm.bing.net/th/id/OIP.ufda9GMM1qUkM0-88mGV-QAAAA?w=270&h=283&rs=1&pid=ImgDetMain" alt="ASP.NET Core" width="37" height="37" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="37" height="37" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="37" height="37" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="37" height="37" /></a>  
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" width="37" height="37" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="37" height="37" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="37" height="37" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="37" height="37" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/30/posts/16037/preview_image/flask.png" alt="Flask" width="37" height="37" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="37" height="37" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" width="37" height="37" /></a>  
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/B/blazor-logo-B6B0844B72-seeklogo.com.png" alt="Blazor" width="37" height="37" /></a>  
+<a href="https://www.microsoft.com/en-GB/sql-server" target="_blank"><img style="margin: 10px" src="https://logodix.com/logo/696508.png" alt="SQL Server" width="37" height="37" /></a>  
 </div>  
 
 <br/>  
