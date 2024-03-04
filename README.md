@@ -11,7 +11,12 @@
 
 
 ### Glad to see you here!  
-As a enthusiastic junior .NET developer, I specialize in back-end development, utilizing my skills in ASP.NET, Entity Framework, and MS SQL Server to craft resilient and efficient applications. My expertise extends to full-stack development, where I've garnered valuable experience in the Blazor Framework, working with both Blazor Server and Blazor Web Assembly. Continuously learning and embracing emerging technologies, I am dedicated to contributing to impactful projects and refining my understanding of software design and cloud technologies.
+
+🚀 Enthusiastic junior .NET developer skilled in crafting resilient applications with ASP.NET, Entity Framework, and MS SQL Server.
+
+🌐 Full-stack experience, specializing in Blazor Framework, including Blazor Server and Blazor Web Assembly.
+
+💡 Committed to continuous learning, embracing emerging technologies, and contributing to impactful projects in software design and cloud technologies.
   
   
 
