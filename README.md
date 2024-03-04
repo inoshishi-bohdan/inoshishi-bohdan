@@ -1,6 +1,6 @@
   
 
-## Hi 👋, I'm Bohdan Koba  
+## Hi 👋, I'm Bohdan  
   
 
 <a href="https://github.com/inoshishi-bohdan" target="_blank">
