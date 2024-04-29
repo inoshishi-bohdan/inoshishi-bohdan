@@ -39,7 +39,6 @@
 
 - 📫 How to reach me **kobabogdan78@gmail.com**
 
-- 📄 Know about my experiences 
 
 </td></tr></table>  
 
