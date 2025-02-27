@@ -17,5 +17,4 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=inoshishi-bohdan&&style=flat-square)  
   
 
-<br/>  
 
